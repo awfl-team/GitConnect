@@ -1,0 +1,3 @@
+[submodule "GitConnect-Front"]
+	path = GitConnect-Front
+	url = https://github.com/awfl-team/GitConnect-Front.git
